@@ -1,4 +1,9 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/qT3NpahR7tGnOqqjng/giphy.gif" width="100"/>
+</div>
+<img src="https://komarev.com/ghpvc/?username=MarinaGarafutdinova&style=flat-square&color=blue" alt=""/>
+
+### Hi there, i am Marina 👋
 
 <!--
 **MarinaGarafutdinova/MarinaGarafutdinova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
