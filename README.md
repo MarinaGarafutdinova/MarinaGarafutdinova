@@ -25,7 +25,6 @@ State University of Low Temperature and Food Technologies - Food industry engine
 - Yandex Practikum - Test Engineer
 
 
-
 </div>
 <!--
 **MarinaGarafutdinova/MarinaGarafutdinova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
