@@ -19,6 +19,12 @@ YouTrack; Miro; SQL; PyCharm.
 
 ---
 
+### :briefcase: Work exemples: 
+- https://github.com/MarinaGarafutdinova/Work_examples
+- https://github.com/MarinaGarafutdinova/DataBase_study_work
+
+---
+
 ### :woman_student: Education  :
 - St. Petersburg
 State University of Low Temperature and Food Technologies - Food industry engineer
